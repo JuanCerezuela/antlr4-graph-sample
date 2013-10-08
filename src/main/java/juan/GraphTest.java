@@ -1,13 +1,5 @@
 package juan;
 
-/**
- * Created with IntelliJ IDEA.
- * User: jcere
- * Date: 10/8/13
- * Time: 3:40 PM
- * To change this template use File | Settings | File Templates.
- */
-
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CommonTokenStream;
@@ -16,13 +8,7 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * Created with IntelliJ IDEA.
- * User: jcere
- * Date: 10/8/13
- * Time: 2:52 PM
- * To change this template use File | Settings | File Templates.
- */
+
 public class GraphTest {
 
     public static void main(String[] args) throws IOException {

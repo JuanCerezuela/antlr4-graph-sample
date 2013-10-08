@@ -1,12 +1,6 @@
 package juan;
 
-/**
- * Created with IntelliJ IDEA.
- * User: jcere
- * Date: 10/8/13
- * Time: 2:49 PM
- * To change this template use File | Settings | File Templates.
- */
+
 public class Edge {
 
     private Vertex fromVertex;
